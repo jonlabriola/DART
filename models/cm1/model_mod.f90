@@ -3,7 +3,7 @@
 ! http://www.image.ucar.edu/DAReS/DART/DART_download
 !
 ! $Id$
-
+! JDL
 module model_mod
 
 ! This is the interface between the model CM1 and DART.
